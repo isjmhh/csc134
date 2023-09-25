@@ -1,10 +1,10 @@
-// if statement example3
+
 // standard header
 /*
 CSC 134
-M3LAB2 ex:3
+M3HW1 - Silver
 Joel
-9/20/23
+9/25/23
 */
 
 
@@ -121,5 +121,4 @@ void chooseDoor2() {
 cout << "you chose door 2 and WIN the game. YOU WIN.." <<endl;
 }
 
-// If we had a Door #3, or 4, we would add another else if to our
-// main(), and then declare and define chooseDoor3() and so on.
+
