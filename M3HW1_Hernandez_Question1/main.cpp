@@ -3,7 +3,7 @@
 using namespace std;
 /*
 CSC 134
-M3HW1-Q1- Silver
+M3HW1-Q1- Bronze
 Joel
 9/25/23
 */
