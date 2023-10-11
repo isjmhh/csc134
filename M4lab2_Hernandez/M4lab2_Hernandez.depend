@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697037879 source:c:\dev\github\csc134\m4lab2_hernandez\main.cpp
+	<iostream>
+	"functions.h"
+
+1697038259 c:\dev\github\csc134\m4lab2_hernandez\functions.h
+	<cstdlib>
+	<ctime>
+
